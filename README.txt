@@ -1,3 +1,6 @@
+Developed a Java console application that allows users to create user accounts and register for university modules using the system.
+
+
 SE1 GROUP 1
 ABHIGYAN SINGH
 ASURI SIMHAKUTTY KAMAKSHI
